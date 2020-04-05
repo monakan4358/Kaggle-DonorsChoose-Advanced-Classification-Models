@@ -1,4 +1,5 @@
-# Advanced Classification Models - Kaggke DonorsChoose.org Application Screening
+# Kaggke DonorsChoose.org Application Screening
+# Advanced Classification Models
 
 This repository contains the data cleaning and algorithms for DonorsChoose.org. 
 
