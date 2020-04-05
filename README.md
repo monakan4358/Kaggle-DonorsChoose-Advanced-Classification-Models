@@ -5,7 +5,6 @@ DonorsChoose is a non-profit corporation that helps public classrooms obtain fun
 
 ## Data Cleaning
 
-This section contains all the files related to cleaning the data.
 - [Original Files](https://www.kaggle.com/c/donorschoose-application-screening)
 - [Text Cleaning](text_cleaning/text.ipynb)
 
