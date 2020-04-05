@@ -1,4 +1,4 @@
-# Predictive-Analytics
+# Advanced Classification Models - Kaggke DonorsChoose.org Application Screening
 
 This repository contains the data cleaning and algorithms for DonorsChoose.org. 
 
